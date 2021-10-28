@@ -5,6 +5,7 @@
     using System.Linq;
     class Program
     {
+        // Was not able to do a .trdx/.trdp report sample with inline CSV data. Didn't found information on how to do it.
         static List<string> Products = new List<string> { "Blade", "Chain", "Chainring", "Decal", "Decal", "Down", "Tube", "Fube End", "Freewheel", "Head Tube", "Hex Nut", "HL Fork", "Hl Hub", "HL Nipple"
                 , "LL Shell", "Lock", "Ring", "Minipump", "ML Fork", "Reflector", "Seat Lug", "Seat Post", "Seat Tube", "Spokes", "Steerer", "Sterm", "Top Tube"};
 
