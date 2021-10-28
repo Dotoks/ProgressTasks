@@ -10,6 +10,7 @@ namespace ProgressTaskFour
     {
         static async Task Main(string[] args)
         {
+            //Pretty sure in order to compelete this task you'll need to use WebServiceDataSource which is available only through Telerik Reporting, which i have to pay for.
             using var client = new WebClient();
 
             client.DownloadStringCompleted += (sender, e) =>
