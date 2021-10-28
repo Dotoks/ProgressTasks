@@ -1,0 +1,16 @@
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\bin\Debug\net5.0\ProgressTaskTwo.exe
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\bin\Debug\net5.0\ProgressTaskTwo.deps.json
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\bin\Debug\net5.0\ProgressTaskTwo.runtimeconfig.json
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\bin\Debug\net5.0\ProgressTaskTwo.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\bin\Debug\net5.0\ProgressTaskTwo.dll
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\bin\Debug\net5.0\ref\ProgressTaskTwo.dll
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\bin\Debug\net5.0\ProgressTaskTwo.pdb
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ProgressTaskTwo.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ProgressTaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ProgressTaskTwo.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ProgressTaskTwo.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ProgressTaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ProgressTaskTwo.dll
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ref\ProgressTaskTwo.dll
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ProgressTaskTwo.pdb
+C:\Users\Ivo\Desktop\ProgressTasks\ProgressTaskTwo\ProgressTaskTwo\obj\Debug\net5.0\ProgressTaskTwo.genruntimeconfig.cache
